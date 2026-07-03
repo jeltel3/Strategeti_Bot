@@ -23,7 +23,7 @@ int main(){
         else if(line=="isready"){
             cout<<"readyok"<<endl;
         }
-        else if(line.substr(0,2)=="go{
+        else if(line.substr(0,2)=="go"){
             int wtime=1e9, btime=1e9; //time left for white in milliseconds and time left for black in milliseconds
             if(line.find("wtime")!=string::npos){
                 stringstream s(line.substr(line.find("wtime")+6));
