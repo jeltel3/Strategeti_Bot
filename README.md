@@ -9,3 +9,4 @@ Squares: Letters for the columns, the letter for the first column is a, the lett
 Chosen rules, that are not specified in the official game rules:\
 1: The player with the white pieces is the starting player.\
 2: After threefold repetition the game is declared a draw, to make sure the game can't last infinitely.\
+3. Gazelles can jump on in a single move, if they land on a square, and they can jump on from that sqauare. They can't jump to the move they started on, because they were there already.
